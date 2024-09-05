@@ -22,7 +22,7 @@ I'm junior frontend developer from [Ukraine]!
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
-![BEM](https://camo.githubusercontent.com/81f14f64940ca2078f2ee38ff1de042842ffffaf568a8204c1b54a699f2b4b38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42454d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62656d266c6f676f436f6c6f723d7768697465)
+![BEM(https://camo.githubusercontent.com/81f14f64940ca2078f2ee38ff1de042842ffffaf568a8204c1b54a699f2b4b38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42454d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62656d266c6f676f436f6c6f723d7768697465)
 
 ## Social links
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AlexeyT_G)
