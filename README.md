@@ -9,7 +9,7 @@ I'm junior frontend developer from [Ukraine]!
 ## My best projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=NOTES_APP&theme=radical)](https://github.com/NEETRUNNER/NOTES_APP)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=WEATHER_APP&theme=radical)](https://github.com/NEETRUNNER/WEATHER_APP)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=VIRTUAL-TOUR&theme=radical)](https://github.com/NEETRUNNER/VIRTUAL-TOUR)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=VIRTUAL_TOUR&theme=radical)](https://github.com/NEETRUNNER/VIRTUAL_TOUR)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=PULSE&theme=radical)](https://github.com/NEETRUNNER/PULSE)
 
 ## Codewars
