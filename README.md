@@ -10,7 +10,7 @@ I'm junior frontend developer from Ukraine!
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=NOTES_APP&theme=radical)](https://github.com/NEETRUNNER/NOTES_APP)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=WEATHER_APP&theme=radical)](https://github.com/NEETRUNNER/WEATHER_APP)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=WINDOW&theme=radical)](https://github.com/NEETRUNNER/WINDOW)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=WEATHER_IN_CITIES&theme=radical)](https://github.com/NEETRUNNER/WEATHER_IN_CITIES)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=PORTFOLIO&theme=radical)](https://github.com/NEETRUNNER/PORTFOLIO)
 
 ## Codewars
 ![Codewars](https://www.codewars.com/users/虛弱的/badges/large)
