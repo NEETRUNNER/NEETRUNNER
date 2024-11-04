@@ -31,3 +31,4 @@ look my portfolio: https://neetrunner.github.io/PORTFOLIO/
 
 ## Social links
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AlexeyT_G)
+[![Linkedin](https://img.shields.io/badge/Linkedit-2CA5E0?style=flat-square&logo=telegram&logoColor=black)](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%81%D1%82%D0%B0%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-512879332/)
