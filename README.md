@@ -27,6 +27,7 @@ My portfolio: https://neetrunner.github.io/PORTFOLIO/
 - ![BEM](https://img.shields.io/badge/-BEM-CF4647?style=flat-square&logo=bem&logoColor=black)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 - ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+- ![React-Hooks-Form](https://img.shields.io/badge/-React_Hooks_Form-CA4245?style=flat-square&logo=react-router&logoColor=white)
 
 
 ## Social links
