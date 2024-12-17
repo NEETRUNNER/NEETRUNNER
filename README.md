@@ -2,7 +2,6 @@
 
 # Hello World!
 I'm junior frontend developer from Ukraine!
-My portfolio: https://neetrunner.github.io/PORTFOLIO/
 
 ## Most Used Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEETRUNNER&layout=compact&theme=radical)
