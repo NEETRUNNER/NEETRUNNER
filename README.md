@@ -27,6 +27,8 @@ I'm junior frontend developer from Ukraine!
 - ![BEM](https://img.shields.io/badge/-BEM-CF4647?style=flat-square&logo=bem&logoColor=black)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 - ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+- ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 
 ## Social links
