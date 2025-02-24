@@ -8,7 +8,7 @@ I'm frontend developer from Ukraine!
 
 ## My best projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=PIZZA&theme=radical)](https://github.com/NEETRUNNER/PIZZA)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=WEATHER_IN_CITIES&theme=radical)](https://github.com/NEETRUNNER/WEATHER_IN_CITIES)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=WEATHER_IN_CITIES-TS-&theme=radical)](https://github.com/NEETRUNNER/WEATHER_IN_CITIES-TS-)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=NBSTORE&theme=radical)](https://github.com/NEETRUNNER/NBSTORE)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=CRYPTO&theme=radical)](https://github.com/NEETRUNNER/CRYPTO)
 
