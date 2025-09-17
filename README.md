@@ -3,15 +3,6 @@
 # Hello World!
 I'm frontend developer from Ukraine!
 
-## Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NEETRUNNER&layout=compact&theme=radical)
-
-## My best projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=PIZZA&theme=radical)](https://github.com/NEETRUNNER/PIZZA)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=WEATHER_IN_CITIES-TS-&theme=radical)](https://github.com/NEETRUNNER/WEATHER_IN_CITIES-TS-)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=NBSTORE&theme=radical)](https://github.com/NEETRUNNER/NBSTORE)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NEETRUNNER&repo=CRYPTO&theme=radical)](https://github.com/NEETRUNNER/CRYPTO)
-
 ## Codewars
 ![Codewars](https://www.codewars.com/users/虛弱的/badges/large)
 
