@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:222222&height=200&section=header&text=Frontend%20Developer&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Building%20modern%20web%20apps%20with%20Next.js%20and%20TypeScript&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=rect&height=200&color=black&text=Front-End%20Developer&fontColor=fff&fontAlign=50&animation=fadeIn&desc=Developer%20with%20experience%20in%20React,%20Next.js,%20TypeScript,%20and%20Tailwind,%20developing%20websites%20of%20varying%20complexity&descAlign=50&descAlignY=78&descSize=15&textBg=false)
 
 ### 👋 Hello World!  
 I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean and performant web interfaces.  
@@ -7,16 +7,14 @@ I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean a
 
 ### ⚡ Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,vite,react,nextjs,vscode,ps,vercel" />
 </p>
 
 ---
 
-### 🧠 Codewars
-<a href="https://www.codewars.com/users/虛弱的">
-  <img src="https://www.codewars.com/users/虛弱的/badges/large" alt="Codewars Badge">
-</a>
+### 🧠 Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/NEETRUNNER?theme=dark&font=Roboto&ext=contest)
 
 ---
 
@@ -29,11 +27,9 @@ I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean a
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=transparent&hide_border=true&hide_title=true&card_width=500" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=transparent&hide_border=true" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NEETRUNNER&show_icons=true&theme=transparent&hide_border=true&hide_title=true&card_width=500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NEETRUNNER&theme=transparent&hide_border=true" />
 </p>
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:222222&height=120&section=footer)
