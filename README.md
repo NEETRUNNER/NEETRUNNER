@@ -1,33 +1,41 @@
-![Header](https://camo.githubusercontent.com/e4d427facb403329235a7fc0f58b17918a7628536dabd891c7f73a42b9ef1987/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3235362673656374696f6e3d68656164657226746578743d46726f6e74656e64253230446576656c6f70657226666f6e7453697a653d373026616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d4275696c64696e672532307468652532307765622c2532306f6e652532306c696e652532306f66253230636f646525323061742532306125323074696d652664657363416c69676e593d35312664657363416c69676e3d3632)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:222222&height=200&section=header&text=Frontend%20Developer&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Building%20modern%20web%20apps%20with%20Next.js%20and%20TypeScript&descAlignY=55)
 
 <div align="center">
 
-# 👋 Frontend Developer
+### 👋 Hello World!  
+I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean and performant web interfaces.  
 
-### Building modern web apps with **Next.js**, **TypeScript**, and **Tailwind CSS**  
-Creating seamless, performant, and accessible user experiences.
+---
 
+### ⚡ Tech Stack
 
-# Hello World!
-I'm frontend developer from Ukraine!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,vite,react,nextjs,zustand,graphql,vercel" />
+</p>
 
-## Codewars
-![Codewars](https://www.codewars.com/users/虛弱的/badges/large)
+---
 
-## Knowledge language
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white)
-- ![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+### 🧠 Codewars
+<a href="https://www.codewars.com/users/虛弱的">
+  <img src="https://www.codewars.com/users/虛弱的/badges/large" alt="Codewars Badge">
+</a>
 
+---
 
+### 🌐 Connect with me
 
-## Social links
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Askeladd_dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2CA5E0?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%81%D1%82%D0%B0%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-512879332/)
+[![Telegram](https://img.shields.io/badge/Telegram-0f0f0f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Askeladd_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%81%D1%82%D0%B0%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-512879332/)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=transparent&hide_border=true&hide_title=true&card_width=500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=transparent&hide_border=true" />
+</p>
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:222222&height=120&section=footer)
