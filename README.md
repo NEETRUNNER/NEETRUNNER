@@ -10,7 +10,7 @@ I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean a
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,vite,react,nextjs,zustand,graphql,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,vite,react,nextjs,vscode,ps,vercel" />
 </p>
 
 ---
