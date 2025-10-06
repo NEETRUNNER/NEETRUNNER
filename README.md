@@ -1,7 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:222222&height=200&section=header&text=Frontend%20Developer&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Building%20modern%20web%20apps%20with%20Next.js%20and%20TypeScript&descAlignY=55)
 
-<div align="center">
-
 ### 👋 Hello World!  
 I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean and performant web interfaces.  
 
