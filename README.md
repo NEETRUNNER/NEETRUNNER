@@ -21,7 +21,7 @@ I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean a
 ### 🌐 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-0f0f0f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Askeladd_dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%81%D1%82%D0%B0%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-512879332/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galas-alexey-68588a328/)
 [![Reddit](https://img.shields.io/badge/Reddit-0f0f0f?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Cold_Control_7659/)
 
 ---
