@@ -14,7 +14,7 @@ I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean a
 ---
 
 ### 🧠 Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/NEETRUNNER?theme=dark&font=Roboto&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/StasovskiyAlexey?theme=dark&font=Roboto&ext=contest)
 
 ---
 
@@ -29,8 +29,8 @@ I'm a **Frontend Developer** from **Ukraine**, passionate about crafting clean a
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NEETRUNNER&show_icons=true&theme=transparent&hide_border=true&hide_title=true&card_width=500" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NEETRUNNER&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StasovskiyAlexey&show_icons=true&theme=transparent&hide_border=true&hide_title=true&card_width=500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StasovskiyAlexey&theme=transparent&hide_border=true" />
 </p>
 
 </div>
